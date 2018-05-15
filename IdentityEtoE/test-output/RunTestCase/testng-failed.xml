@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [RunTestCase]">
+  <test name="Property Search(failed)">
+    <classes>
+      <class name="com.identity.etoe.tests.VehicleRegDetailsTest">
+        <methods>
+          <include name="vehicleRegDetailsTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- com.identity.etoe.tests.VehicleRegDetailsTest -->
+    </classes>
+  </test> <!-- Property Search(failed) -->
+</suite> <!-- Failed suite [RunTestCase] -->

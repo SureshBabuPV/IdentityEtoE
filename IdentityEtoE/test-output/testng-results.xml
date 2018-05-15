@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="RunTestCase" duration-ms="44287" started-at="2018-05-15T01:04:27Z" finished-at="2018-05-15T01:05:12Z">
+    <groups>
+    </groups>
+    <test name="Property Search" duration-ms="44287" started-at="2018-05-15T01:04:27Z" finished-at="2018-05-15T01:05:12Z">
+      <class name="com.identity.etoe.tests.VehicleRegDetailsTest">
+        <test-method status="PASS" signature="vehicleRegDetailsTest(java.util.Hashtable)[pri:0, instance:com.identity.etoe.tests.VehicleRegDetailsTest@4d95d2a2]" name="vehicleRegDetailsTest" duration-ms="8883" started-at="2018-05-15T02:04:28Z" data-provider="getData" finished-at="2018-05-15T02:04:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Color=SILVER, RegNo=AY14UAF, Make=MAZDA}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vehicleRegDetailsTest -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.identity.etoe.tests.VehicleRegDetailsTest@4d95d2a2]" name="aftermethod" is-config="true" duration-ms="741" started-at="2018-05-15T02:04:37Z" finished-at="2018-05-15T02:04:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="vehicleRegDetailsTest(java.util.Hashtable)[pri:0, instance:com.identity.etoe.tests.VehicleRegDetailsTest@4d95d2a2]" name="vehicleRegDetailsTest" duration-ms="8603" started-at="2018-05-15T02:04:38Z" data-provider="getData" finished-at="2018-05-15T02:04:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Color=BLACK, RegNo=YP16VPV, Make=FORD}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vehicleRegDetailsTest -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.identity.etoe.tests.VehicleRegDetailsTest@4d95d2a2]" name="aftermethod" is-config="true" duration-ms="698" started-at="2018-05-15T02:04:46Z" finished-at="2018-05-15T02:04:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="vehicleRegDetailsTest(java.util.Hashtable)[pri:0, instance:com.identity.etoe.tests.VehicleRegDetailsTest@4d95d2a2]" name="vehicleRegDetailsTest" duration-ms="8271" started-at="2018-05-15T02:04:47Z" data-provider="getData" finished-at="2018-05-15T02:04:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Color=Red, RegNo=SD58FWO, Make=HONDA}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vehicleRegDetailsTest -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.identity.etoe.tests.VehicleRegDetailsTest@4d95d2a2]" name="aftermethod" is-config="true" duration-ms="696" started-at="2018-05-15T02:04:55Z" finished-at="2018-05-15T02:04:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="vehicleRegDetailsTest(java.util.Hashtable)[pri:0, instance:com.identity.etoe.tests.VehicleRegDetailsTest@4d95d2a2]" name="vehicleRegDetailsTest" duration-ms="7410" started-at="2018-05-15T02:04:56Z" data-provider="getData" finished-at="2018-05-15T02:05:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Color=GREY, RegNo=LD08PXL, Make=AUDI}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vehicleRegDetailsTest -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.identity.etoe.tests.VehicleRegDetailsTest@4d95d2a2]" name="aftermethod" is-config="true" duration-ms="684" started-at="2018-05-15T02:05:03Z" finished-at="2018-05-15T02:05:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="vehicleRegDetailsTest(java.util.Hashtable)[pri:0, instance:com.identity.etoe.tests.VehicleRegDetailsTest@4d95d2a2]" name="vehicleRegDetailsTest" duration-ms="7010" started-at="2018-05-15T02:05:04Z" data-provider="getData" finished-at="2018-05-15T02:05:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Color=RED, RegNo=KW65DMX, Make=CITROEN}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vehicleRegDetailsTest -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.identity.etoe.tests.VehicleRegDetailsTest@4d95d2a2]" name="aftermethod" is-config="true" duration-ms="692" started-at="2018-05-15T02:05:11Z" finished-at="2018-05-15T02:05:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.identity.etoe.tests.VehicleRegDetailsTest@4d95d2a2]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-05-15T02:05:12Z" finished-at="2018-05-15T02:05:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.identity.etoe.tests.VehicleRegDetailsTest -->
+      <class name="com.identity.etoe.tests.FileInfoTest">
+        <test-method status="PASS" signature="fileInfoTest()[pri:0, instance:com.identity.etoe.tests.FileInfoTest@1b68ddbd]" name="fileInfoTest" duration-ms="28" started-at="2018-05-15T02:04:27Z" finished-at="2018-05-15T02:04:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fileInfoTest -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.identity.etoe.tests.FileInfoTest@1b68ddbd]" name="aftermethod" is-config="true" duration-ms="309" started-at="2018-05-15T02:04:27Z" finished-at="2018-05-15T02:04:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+      </class> <!-- com.identity.etoe.tests.FileInfoTest -->
+    </test> <!-- Property Search -->
+  </suite> <!-- RunTestCase -->
+</testng-results>
